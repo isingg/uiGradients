@@ -1532,5 +1532,11 @@
     {
         "name": "Visual Blue",
         "colors": ["#003d4d", "#00c996"]
+    },
+    {
+      "name": "Career",
+      "colors": ["#4C4E52", "#468499"]
     }
+  
+  
 ]
